@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pigs | Manuel Revilla, Ph.D.</title>
+    <link>/tags/pigs/</link>
+      <atom:link href="/tags/pigs/index.xml" rel="self" type="application/rss+xml" />
+    <description>pigs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Manuel Revilla © 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>pigs</title>
+      <link>/tags/pigs/</link>
+    </image>
+    
+    <item>
+      <title>Towards the quantitative characterisation of piglets&#39; robustness to weaning: a modelling approach</title>
+      <link>/publication/2019_animal_revilla/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_animal_revilla/</guid>
+      <description>&lt;div class=&#34;article-style&#34;&gt;
+  &lt;h4 id=full-citation&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;
+  &lt;strong&gt;Revilla, M.&lt;/strong&gt;
+  , Friggens, N.C., Broudiscou, L., Lemonnier, G., Blanc, F., Ravon, L., Mercat, J.M., Billon, Y., Rogel-Gaillard, R., Le Floch, N., Estell&amp;eacute;, J., Mu&amp;ntilde;oz&amp;#150;Tamayo, R. (2019). Towards the quantitative characterisation of piglets&#39; robustness to weaning: A modelling approach. &lt;em&gt;Animal&lt;/em&gt;
+, 13(11):2536-2546. doi: &lt;a href=&#34;https://doi.org/10.1017/S1751731119000843&#34; target=&#34;_blank&#34;&gt;10.1017/S1751731119000843&lt;/a&gt; 
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
