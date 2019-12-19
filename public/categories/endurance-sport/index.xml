@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>endurance sport | Manuel Revilla, Ph.D.</title>
+    <link>/categories/endurance-sport/</link>
+      <atom:link href="/categories/endurance-sport/index.xml" rel="self" type="application/rss+xml" />
+    <description>endurance sport</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Manuel Revilla under (CC BY-SA 4.0)</copyright><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>endurance sport</title>
+      <link>/categories/endurance-sport/</link>
+    </image>
+    
+    <item>
+      <title>Amateur marathoner</title>
+      <link>/post/20191213_amateur/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/20191213_amateur/</guid>
+      <description>&lt;p&gt;Amateur is a word taken from French, that was present in that language since the XV century, after replacing the popular form &lt;i&gt;&amp;ldquo;amaor&amp;rdquo;&lt;/i&gt;, which derives from the Latin &lt;i&gt;&amp;ldquo;amator&amp;rdquo;&lt;/i&gt; meaning &amp;ldquo;who loves&amp;rdquo;.
+Then in the XVIII century it was given a modern meaning alluding to one who practises a science, art, sport&amp;hellip; without the need to be professional for it, but it was not until the XIX century that the amateur word was implemented as a sporting term.&lt;/p&gt;
+
+&lt;p&gt;For myself, I honor the amateur spirit upon which the sport was founded and champion the Running Class - the non-professional yet competitive runners dedicated to the pursuit of personal excellence.&lt;/p&gt;
+
+&lt;p&gt;Anyone who knows me will know that one of my passions are endurance sports, with specially attention to marathons.&lt;/p&gt;
+
+&lt;p&gt;I believe in competition and the meritocracy of racing. Not because winning and losing are particularly important, but because competition sends us on an innately human journey. A large part of training for a marathon is learning from your mistakes. Runners must listen to their bodies and decide when to train, and when not to train, based on how they cope will all they put the body through. The profound physical and mental demands of training and racing lead to a richer and more sensitive and thrilling life. In my experience, I&amp;rsquo;ve gained a lot of humility and perseverance for completing the marathon distance.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, I usually combine this passion with other of my hobbies, meet new landscapes and communities&amp;hellip; I consider that traveling cross-world is a fulfilling way to enhance each marathon experience. It has led me to participate in several marathons around the world, trying to improve, in each one of my participations, my personal record.&lt;/p&gt;
+
+&lt;p&gt;Last April 15 I set my personal best time in the Boston Marathon, my first Major. For those who are not familiar with this term, a Major is the conversational style to call a marathon which belongs to the &lt;a href=&#34;https://www.worldmarathonmajors.com/&#34; target=&#34;_blank&#34;&gt;Abbott World Marathon Majors&lt;/a&gt;. A series consisting of six of the largest and most renowned marathons in the world. The races take place in Tokyo, Boston, London, Berlin, Chicago and New York City.&lt;/p&gt;
+
+&lt;p&gt;I can&amp;rsquo;t be happier about my first participation in a Major, because I broke my &lt;strong&gt;personal record&lt;/strong&gt;, setting up a finishing time of &lt;strong&gt;02h48&amp;rsquo;23&amp;rdquo;&lt;/strong&gt;, which represent a pace of &lt;strong&gt;3&amp;rsquo;59&amp;rdquo;/km (15.04 km/h)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this plot you can find all my participations and my personal progression in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Pheidippides&#34; target=&#34;_blank&#34;&gt;Philippides&lt;/a&gt; (&amp;Phi;&amp;iota;&amp;lambda;&amp;iota;&amp;pi;&amp;pi;&amp;iacute;&amp;delta;&amp;eta;&amp;sigmaf;) distance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/RScatterPlot_MarathonParticipations.png&#34; alt=&#34;This is an image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to dive into my personal marathon participation statistics I invite you to check this summary table.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/RTablePlot_MarathonParticipations.png&#34; alt=&#34;This is an image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Moreover, in the following table you can see the all-time top-5 marathoners (men and women), which reflects that human beings have no limits.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/RTablePlotAthletes_MarathonParticipations.png&#34; alt=&#34;This is an image&#34; /&gt;
+&lt;figcaption&gt;
+Source: &lt;a href=&#34;https://www.worldathletics.org/&#34; target=&#34;_blank&#34;&gt;World Athletics&lt;/a&gt; (before International Association of Athletics Federations, IAAF)
+&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;p&gt;In each of my training programs for the marathon I take notes that help me improve my performance, as well as embody my personal experiences. Remembering the notes I usually take, the plots shown in this post are made using the R package &lt;a href=&#34;https://CRAN.R-project.org/package=xkcd&#34; target=&#34;_blank&#34;&gt;xkcd&lt;/a&gt;, which represents the traces of handwriting.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, I want to share with you this quote of &lt;a href=&#34;https://archive.org/details/borntorunhiddent00mcdo&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen&amp;rdquo;&lt;/a&gt; book, a must to be read if you want to be consider as a marathoner:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+&#34;Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. 
+Every morning in Africa, a lion wakes up. 
+It knows it must run faster than the slowest gazelle, or it will starve. 
+It doesn&#39;t matter whether you&#39;re the lion or a gazelle-when the sun comes up, you&#39;d better be running.&#34; 
+  &lt;/p&gt;
+-Christopher McDougall
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
