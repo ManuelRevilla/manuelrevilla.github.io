@@ -1,0 +1,909 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.6.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Manuel Revilla">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This study aims identifying candidate genes and pathways associated with feed efficiency (FE) in pigs. Liver and duodenum transcriptomes of 37 gilts showing high and low residual feed intake (RFI) were analysed by RNA-Seq. Gene expression data was explored through differential expression (DE) and weighted gene co-expression network analyses. DE analysis revealed 55 and 112 differentially regulated genes in liver and duodenum tissues, respectively. Clustering genes according to their connectivity resulted in 23 (liver) and 25 (duodenum) modules of genes with a co-expression pattern. Four modules, one in liver (with 444 co-expressed genes) and three in duodenum (gathering 37, 126 and 41 co-expressed genes), were significantly associated with FE indicators. Intra-module analyses revealed tissue-specific candidate genes; 12 of these genes were also identified as DE between individuals with high and low RFI. Pathways enriched by the list of genes showing DE and/or belonging to FE co-expressed modules included response to oxidative stress, inflammation, immune response, lipid metabolism and thermoregulation. Low overlapping between genes identified in duodenum and liver tissues was observed but heat shock proteins were associated to FE in both tissues. Our results suggest tissue-specific rather than common transcriptome regulatory processes associated with FE in pigs.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/publication/2018_scirep_ramayo-caldas/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#328cc1">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154750100-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-154750100-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/publication/2018_scirep_ramayo-caldas/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@ManuelRevillaRs">
+  <meta property="twitter:creator" content="@ManuelRevillaRs">
+  
+  <meta property="og:site_name" content="Manuel Revilla, Ph.D.">
+  <meta property="og:url" content="/publication/2018_scirep_ramayo-caldas/">
+  <meta property="og:title" content="Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs | Manuel Revilla, Ph.D.">
+  <meta property="og:description" content="This study aims identifying candidate genes and pathways associated with feed efficiency (FE) in pigs. Liver and duodenum transcriptomes of 37 gilts showing high and low residual feed intake (RFI) were analysed by RNA-Seq. Gene expression data was explored through differential expression (DE) and weighted gene co-expression network analyses. DE analysis revealed 55 and 112 differentially regulated genes in liver and duodenum tissues, respectively. Clustering genes according to their connectivity resulted in 23 (liver) and 25 (duodenum) modules of genes with a co-expression pattern. Four modules, one in liver (with 444 co-expressed genes) and three in duodenum (gathering 37, 126 and 41 co-expressed genes), were significantly associated with FE indicators. Intra-module analyses revealed tissue-specific candidate genes; 12 of these genes were also identified as DE between individuals with high and low RFI. Pathways enriched by the list of genes showing DE and/or belonging to FE co-expressed modules included response to oxidative stress, inflammation, immune response, lipid metabolism and thermoregulation. Low overlapping between genes identified in duodenum and liver tissues was observed but heat shock proteins were associated to FE in both tissues. Our results suggest tissue-specific rather than common transcriptome regulatory processes associated with FE in pigs."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-12-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2018-01-11T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/2018_scirep_ramayo-caldas/"
+  },
+  "headline": "Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs",
+  
+  "datePublished": "2019-12-01T00:00:00Z",
+  "dateModified": "2018-01-11T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Yuliaxis Ramayo\u0026#150;Caldas"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Manuel Revilla, Ph.D.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "This study aims identifying candidate genes and pathways associated with feed efficiency (FE) in pigs. Liver and duodenum transcriptomes of 37 gilts showing high and low residual feed intake (RFI) were analysed by RNA-Seq. Gene expression data was explored through differential expression (DE) and weighted gene co-expression network analyses. DE analysis revealed 55 and 112 differentially regulated genes in liver and duodenum tissues, respectively. Clustering genes according to their connectivity resulted in 23 (liver) and 25 (duodenum) modules of genes with a co-expression pattern. Four modules, one in liver (with 444 co-expressed genes) and three in duodenum (gathering 37, 126 and 41 co-expressed genes), were significantly associated with FE indicators. Intra-module analyses revealed tissue-specific candidate genes; 12 of these genes were also identified as DE between individuals with high and low RFI. Pathways enriched by the list of genes showing DE and/or belonging to FE co-expressed modules included response to oxidative stress, inflammation, immune response, lipid metabolism and thermoregulation. Low overlapping between genes identified in duodenum and liver tissues was observed but heat shock proteins were associated to FE in both tissues. Our results suggest tissue-specific rather than common transcriptome regulatory processes associated with FE in pigs."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs | Manuel Revilla, Ph.D.</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    
+    
+      <a class="navbar-brand" href="/">Manuel Revilla, Ph.D.</a>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#home"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Dissertation</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/CV.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a>Yuliaxis Ramayo&#150;Caldas</a></span>, <span><a>Maria Ballester</a></span>, <span><a>Juan Pablo S&aacute;nchez</a></span>, <span><a>Olga Gonz&aacute;lez&#150;Rodr&iacute;guez</a></span>, <span><a><strong>Manuel Revilla</strong></a></span>, <span><a>Henry Reyer</a></span>, <span><a>Klaus Wimmers</a></span>, <span><a>David Torrallardona</a></span>, <span><a>Raquel Quintanilla</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.nature.com/articles/s41598-017-19072-5" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2018_scirep_ramayo-caldas/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1038/s41598-017-19072-5" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">This study aims identifying candidate genes and pathways associated with feed efficiency (FE) in pigs. Liver and duodenum transcriptomes of 37 gilts showing high and low residual feed intake (RFI) were analysed by RNA-Seq. Gene expression data was explored through differential expression (DE) and weighted gene co-expression network analyses. DE analysis revealed 55 and 112 differentially regulated genes in liver and duodenum tissues, respectively. Clustering genes according to their connectivity resulted in 23 (liver) and 25 (duodenum) modules of genes with a co-expression pattern. Four modules, one in liver (with 444 co-expressed genes) and three in duodenum (gathering 37, 126 and 41 co-expressed genes), were significantly associated with FE indicators. Intra-module analyses revealed tissue-specific candidate genes; 12 of these genes were also identified as DE between individuals with high and low RFI. Pathways enriched by the list of genes showing DE and/or belonging to FE co-expressed modules included response to oxidative stress, inflammation, immune response, lipid metabolism and thermoregulation. Low overlapping between genes identified in duodenum and liver tissues was observed but heat shock proteins were associated to FE in both tissues. Our results suggest tissue-specific rather than common transcriptome regulatory processes associated with FE in pigs.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Scientific Reports</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><div class="article-style">
+  <h4 id=full-citation">Full citation</h4>
+<p>
+  Ramayo&#150;Caldas, Y., Ballester, M., S&aacute;nchez, J.P., Gonz&aacute;lez&#150;Rodr&iacute;guez, O., <strong>Revilla, M.</strong>, Reyer, H., Wimmers, K., Torrallardona, D., Quintanilla, R. (2018). Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs. <em>Scientific Reports</em>, 8(1):558. doi: <a href="https://doi.org/10.1038/s41598-017-19072-5" target="_blank">10.1038/s41598-017-19072-5</a>  
+  </p>
+</div>
+</div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/2018_scirep_ramayo-caldas/&amp;text=Integrative%20approach%20using%20liver%20and%20duodenum%20RNA-Seq%20data%20identifies%20candidate%20genes%20and%20pathways%20associated%20with%20feed%20efficiency%20in%20pigs" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Integrative%20approach%20using%20liver%20and%20duodenum%20RNA-Seq%20data%20identifies%20candidate%20genes%20and%20pathways%20associated%20with%20feed%20efficiency%20in%20pigs&amp;body=/publication/2018_scirep_ramayo-caldas/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Integrative%20approach%20using%20liver%20and%20duodenum%20RNA-Seq%20data%20identifies%20candidate%20genes%20and%20pathways%20associated%20with%20feed%20efficiency%20in%20pigs%20/publication/2018_scirep_ramayo-caldas/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/yuliaxis-ramayo#150caldas/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.e8215ca28db30837697c25157aaa8c54.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">License</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    &copy; 2019 Manuel Revilla under (CC BY-SA 4.0) &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
