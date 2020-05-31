@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -113,17 +108,17 @@
   </url>
   
   <url>
+    <loc>/authors/manuel-revilla/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/strongmanuel-revilla/strong/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/claire-rogel#150gaillard/</loc>
+    <loc>/authors/claire-rogel-gaillard/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +138,12 @@
   </url>
   
   <url>
-    <loc>/authors/laurent#150philippe-broudiscou/</loc>
+    <loc>/authors/laurent-philippe-broudiscou/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/marie#150joseacute-mercat/</loc>
+    <loc>/authors/marie-joseacute-mercat/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,7 +168,7 @@
   </url>
   
   <url>
-    <loc>/authors/rafael-muntildeoz#150tamayo/</loc>
+    <loc>/authors/rafael-muntildeoz-tamayo/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,7 +193,7 @@
   </url>
   
   <url>
-    <loc>/authors/daniel-crespo#150piazuelo/</loc>
+    <loc>/authors/daniel-crespo-piazuelo/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,7 +208,7 @@
   </url>
   
   <url>
-    <loc>/authors/lourdes-criado#150mesas/</loc>
+    <loc>/authors/lourdes-criado-mesas/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,18 +223,23 @@
   </url>
   
   <url>
-    <loc>/authors/juan-m.-garciacutea#150casco/</loc>
+    <loc>/authors/juan-m.-garciacutea-casco/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lourdes-migura#150garcia/</loc>
+    <loc>/authors/lourdes-migura-garcia/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/mariacutea-muntildeoz/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>/authors/yuliaxis-ramayo#150caldas/</loc>
+    <loc>/authors/yuliaxis-ramayo-caldas/</loc>
     <lastmod>2018-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -273,12 +273,17 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/anna-puig#150oliveras/</loc>
+    <loc>/authors/anna-puig-oliveras/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,7 +318,7 @@
   </url>
   
   <url>
-    <loc>/authors/olga-gonzaacutelez#150rodriacuteguez/</loc>
+    <loc>/authors/olga-gonzaacutelez-rodriacuteguez/</loc>
     <lastmod>2018-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -403,12 +408,8 @@
   </url>
   
   <url>
-    <loc>/authors/noelia-ibantildeez#150escriche/</loc>
+    <loc>/authors/noelia-ibantildeez-escriche/</loc>
     <lastmod>2014-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
   <url>
