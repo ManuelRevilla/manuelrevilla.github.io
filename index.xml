@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Revilla, DVM, PhD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated Sep. 27, 2020 &amp;#183; © 2019 Manuel Revilla under (CC BY-SA 4.0)</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated Oct. 30, 2020 &amp;#183; © 2019 Manuel Revilla under (CC BY-SA 4.0)</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Manuel Revilla, DVM, PhD</title>
@@ -67,6 +67,16 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying growth perturbations over the fattening period in swine via mathematical modelling</title>
+      <link>/publication/2020_biorxiv_revilla/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_biorxiv_revilla/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Revilla, M.&lt;/strong&gt;, Lenoir, G., Flatres-Grall, L., Muñoz-Tamayo, R., Friggens, N.C. (2020). Quantifying growth perturbations over the fattening period in swine via mathematical modelling. &lt;em&gt;bioRxiv&lt;/em&gt;, 10.22.349985. doi: &lt;a href=&#34;https://doi.org/10.1101/2020.10.22.349985&#34; title=&#34;10.1101/2020.10.22.349985&#34; target=&#34;_blank&#34;&gt;10.1101/2020.10.22.349985&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
