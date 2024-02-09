@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Manuel Revilla, DVM, PhD</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated Feb. 8th, 2024 &amp;#183; © 2024 Manuel Revilla under (CC BY-SA 4.0)</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>MICROFEED project</title>
+      <link>/project/microfeed-project/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/microfeed-project/</guid>
+      <description>&lt;h4 id=&#34;title-&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Understanding the importance of gut microbiota for the improvement of swine efficiency and robustness&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://genphyse.toulouse.inra.fr/people/gilbert&#34; title=&#34;Dr. H&amp;amp;eacute;l&amp;amp;egrave;ne Gilbert&#34; target=&#34;_blank&#34;&gt;Dr. Hélène Gilbert&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://genphyse.toulouse.inra.fr/&#34; title=&#34;GenPhySE&#34; target=&#34;_blank&#34;&gt;Génétique Physiologie et Systèmes dElevage (GenPhySE)&lt;/a&gt;, Animal Physiology and Livestock Systems Divisions, &lt;a href=&#34;https://www.inrae.fr/en&#34; title=&#34;INRAE&#34; target=&#34;_blank&#34;&gt;INRAE&lt;/a&gt;, Toulouse, France&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/en/&#34; title=&#34;ANR&#34; target=&#34;_blank&#34;&gt;National Agency for Research (ANR)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;719 339 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/Project-ANR-16-CE20-0003&#34; title=&#34;ANR-16-CE20-0003&#34; target=&#34;_blank&#34;&gt;ANR-16-CE20-0003&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;abstract-&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;MICROFEED will study a generally ignored partner of livestock, the gut microbiota, to refund the improvement of production efficiency and robustness in pig breeding. The gut microbiota is an essential contributor to the availability of nutrients in the animal gut, contributing to its growth, health and immunity.&lt;/p&gt;
+&lt;p&gt;MICROFEED will explore the gut microbiota component and its link with the genetic and genomic of feed efficiency and robustness of the host in two unique designs developed to study the pig feed efficiency. The first design relies on 10 generations of divergent selection for feed efficiency in two pig lines fed a conventional diet, to identify and quantify the impact of the gut microbiota potentially co-selected in response to genetic improvement for feed efficiency. The second design is based on a commercial population currently selected for production by the French pig breeders, from which the divergent lines were selected. It will be divided into two sub-designs of related pigs fed either a conventional diet or a high dietary fibers diet more difficult to digest. This second design is the result of collaboration between INRA and the pig breeders grouped in FGPorc in the frame of the H2020 Feed-a-Gene project to study the pig feed efficiency in response to lowered feed quality. In a first step, MICROFEED will produce new data (phenotypes, genotypes) in the two designs (908 pigs in Design 1 and 1700 in Design 2), together with feces samples for partial sequencing (16S) of the gut microbiota (600 + 1600 samples) to evaluate quantitatively the contribution of the gut microbiota to the variability of pig feed efficiency, and to test the effect of diet changes on this contribution. Prediction equations from the gut microbiota and host genomic data will be established. In a second step, whole-metagenome sequencing of 96 samples representing key microbiota profiles for extreme feed efficiency phenotypes, and whole-genome sequencing of 40 pigs best representing the two designs diversity will be obtained. These will be combined to identify the host and gut microbiota genes and functions involved in the feed efficiency of the pig and its robustness to diet changes, and to dissect the underlying biological mechanisms. Finally, external feces samples, genotypes and phenotypes available among the consortium from other projects, including different breeds, feeds, breeding conditions, will be used for validating the prediction equations established in the first step, to test their robustness to these factors and to then propose new selection and management strategies for pig breeding. By identifying which microbes contribute to feed efficiency and which are robustness to feed changes, MICROFEED will propose new genomic tools to jointly pilot the gut microbiota composition and the host genetic in terms of genetic selection for pig breeders, but also in terms of nutrition and feeding for the feeding industry.&lt;/p&gt;
+&lt;p&gt;MICROFEED is structured in eight tasks, including one for the project management (Task 0) and one for the dissemination and transfer (Task 7). The two first tasks will concern data acquisition, the three following tasks will concentrate on acquisition of new knowledge on the relationships between host, gut microbiota and feed. Task 6 will validate these results and propose new strategies for selection and feeding.&lt;/p&gt;
+&lt;p&gt;The consortium is composed of seven INRA groups specialized in pig genetics and genomics, feed efficiency and gut microbiota, plus two private partners from the French pig breeding industry representing more than 75% of the French pig genetic market. The total cost of MICROFEED is 1.4 million euros (not including INRA salaries), comprising a contribution of 258 k€ from the private companies and a demand to the ANR of 719 k€, for a labor of 227 person.months during 4 years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PIGLETBIOTA project</title>
+      <link>/project/pigletbiota-project/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pigletbiota-project/</guid>
+      <description>&lt;h4 id=&#34;title-&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;An integrative biology-based study of the influence of intestinal microbiota composition on piglet robustness at weaning in a perspective of a limited use of antibiotics in livestock production&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0002-6241-1732&#34; title=&#34;Dr. Jordi Estell&amp;amp;eacute;&#34; target=&#34;_blank&#34;&gt;Dr. Jordi Estellé&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www6.jouy.inra.fr/gabi_eng/Our-Research/Teams-and-projects/GIS&#34; title=&#34;GeMS&#34; target=&#34;_blank&#34;&gt;Génétique, Microbiote, Santé (GeMS)&lt;/a&gt;, &lt;a href=&#34;https://www6.jouy.inra.fr/gabi_eng/&#34; title=&#34;GABI&#34; target=&#34;_blank&#34;&gt;Animal Genetics and Integrative Biology (GABI)&lt;/a&gt;, &lt;a href=&#34;http://www.inra.fr/en&#34; title=&#34;INRA&#34; target=&#34;_blank&#34;&gt;INRA&lt;/a&gt;, Jouy-en-Josas, France&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/en/&#34; title=&#34;ANR&#34; target=&#34;_blank&#34;&gt;National Agency for Research (ANR)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;793 719 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/Project-ANR-14-CE18-0004&#34; title=&#34;ANR-14-CE18-0004&#34; target=&#34;_blank&#34;&gt;ANR-14-CE18-0004&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;abstract-&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The future challenge in animal production will be to provide food to a growing human population by respecting a balance between quality products, consumer acceptance and safety, as well as animal welfare. In a perspective of safe and sustainable food systems, reducing the use of antibiotics in livestock is a major concern. In fact, antibiotic resistance is one of the major medical challenges of the 21st century. The transfer of genes conferring resistance through the environment and the food chain, the potential for development of resistant bacteria and the appearance of therapeutic failures in human medicine, notably due to zoonotic bacteria, constitute major health issues for livestock farming sectors.&lt;/p&gt;
+&lt;p&gt;In the pig breeding industry, the weaning period is often accompanied by a decreased growth rate caused by disparate food intake and diarrhoea due to digestive disorders that might be associated with bacterial population disequilibrium (i.e. dysbiosis) and/or opportunistic intestinal infections. Alarmingly, during this transition period the prophylactic use of antibiotics is still very frequent in order to limit piglet morbidity and mortality. Thus, reducing the prophylactic use of antibiotics in weaning pigs is a main issue and there is a strong need for alternatives.
+In this context, we have built a public-private partnership that gathers INRA scientists and industries from economic sectors of both animal feeding and pig breeding. PigletBiota is a precompetitive project that will study the physiological and genetic bases of the piglet sensitivity at weaning, as a prerequisite to identify innovative actions to adapt animals and pig production systems to a reduction of antibiotic use.&lt;/p&gt;
+&lt;p&gt;The global aim of the PIGLETBIOTA project is to develop research that will contribute to adapt pig production systems to a reduction of antibiotics. The project proposes an integrative biology approach to determine the main factors influencing the variability of the individual&amp;rsquo;s robustness at weaning. We will monitor piglets for health, immune, stress and zootechnical traits and will characterize the intestinal microbiota diversity and composition as well as the contribution of host&amp;rsquo;s genotypes. The experimental design will combine various environments, including experimental and commercial farms, and ages at weaning and all animals will be fed without antibiotics. Animals (n~1000) will be clinically surveyed, measured for various traits related to production, immunity and stress, and genotyped with high-density SNP chips. The genetic parameters of the sensitivity at weaning will be estimated and genetic association studies performed. Faecal samples before and after the weaning date will be collected for characterizing the dynamics of the gut microbiota and studying its influence on the individual sensitivity at weaning. Animal and microbiota data will be vertically integrated in order to better understand the interplay between the these two levels of this biological system, and to develop robust indicators of weaning sensitivity. Finally, a functional screening using INRA platforms dedicated to human studies will be performed in order to detect active molecules to be tested &lt;em&gt;in vivo&lt;/em&gt; and by using an axenic pigs model. The PigletBiota public-private consortium will favor translational research and innovation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBIOME project</title>
+      <link>/project/ibiome-project/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/ibiome-project/</guid>
+      <description>&lt;h4 id=&#34;title-&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Genetic and functional validation of QTLs,  genes  and  gene  networks  and  study  of  microbiome  effect  on  growth, fatness and meat quality in swine&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-3689-1303&#34; title=&#34;Dr. Josep M Folch&#34; target=&#34;_blank&#34;&gt;Dr. Josep M Folch&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cragenomica.es/&#34; title=&#34;CRAG&#34; target=&#34;_blank&#34;&gt;Centre de Recerca en Agrigenòmica (CRAG)&lt;/a&gt;, &lt;a href=&#34;https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html&#34; title=&#34;UAB&#34; target=&#34;_blank&#34;&gt;Universitat Autònoma de Barcelona (UAB)&lt;/a&gt;, Bellaterra, Barcelona, Spain&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mineco.gob.es/portal/site/mineco/menuitem.aa5c961c0709f0fe3e85b782026041a0/?vgnextoid=7c9f2f207c415310VgnVCM1000001d04140aRCRD&amp;amp;lang_choosen=en&#34; title=&#34;MINECO&#34; target=&#34;_blank&#34;&gt;Ministry of Economy and Competitiveness (MINECO)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;211 750 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;AGL2014-56369-C2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBMAP project</title>
+      <link>/project/ibmap-project/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/ibmap-project/</guid>
+      <description>&lt;h4 id=&#34;tittle-&#34;&gt;Tittle&lt;/h4&gt;
+&lt;p&gt;Application  of  Genomics  and Massive  Parallel  Sequencing  methods  to  the  study  of  genetic  variants  that regulate growth, conformation and meat quality in pigs&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-3689-1303&#34; title=&#34;Dr. Josep M Folch&#34; target=&#34;_blank&#34;&gt;Dr. Josep M Folch&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cragenomica.es/&#34; title=&#34;CRAG&#34; target=&#34;_blank&#34;&gt;Centre de Recerca en Agrigenòmica (CRAG)&lt;/a&gt;, &lt;a href=&#34;https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html&#34; title=&#34;UAB&#34; target=&#34;_blank&#34;&gt;Universitat Autònoma de Barcelona (UAB)&lt;/a&gt;, Bellaterra, Barcelona, Spain&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mineco.gob.es/portal/site/mineco/menuitem.aa5c961c0709f0fe3e85b782026041a0/?vgnextoid=7c9f2f207c415310VgnVCM1000001d04140aRCRD&amp;amp;lang_choosen=en&#34; title=&#34;MINECO&#34; target=&#34;_blank&#34;&gt;Ministry of Economy and Competitiveness (MINECO)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;138 000 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;AGL2011-29821-C02&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,0 @@
-# manuelrevilla.github.io
-Website

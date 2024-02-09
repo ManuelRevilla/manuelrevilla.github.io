@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Revilla, DVM, PhD</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Revilla, DVM, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Last updated Feb. 8th, 2024 &amp;#183; © 2024 Manuel Revilla under (CC BY-SA 4.0)</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Manuel Revilla, DVM, PhD</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&amp;lt;em&amp;gt;Slides&amp;lt;/em&amp;gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying growth perturbations over the fattening period in swine via mathematical modelling</title>
+      <link>/publication/2022_peercommunityjournal_revilla/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_peercommunityjournal_revilla/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Revilla, M.&lt;/strong&gt;, Lenoir, G., Flatres-Grall, L., Muñoz-Tamayo, R., Friggens, N.C. (2022). Quantifying growth perturbations over the fattening period in swine via mathematical modelling. &lt;em&gt;Peer Community Journal&lt;/em&gt;, 2(e9): 10.24072/pcjournal.82. doi: &lt;a href=&#34;https://doi.org/10.24072/pcjournal.82&#34; title=&#34;10.24072/pcjournal.82&#34; target=&#34;_blank&#34;&gt;10.24072/pcjournal.82&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Influence of genetics and the pre-vaccination blood transcriptome on the variability of antibody levels after vaccination against Mycoplasma hyopneumoniae in pigs</title>
+      <link>/publication/2021_genetselevol_blanc/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_genetselevol_blanc/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Blanc, F., Maroilley, T., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Lemonnier, G., Leplat J.J., Billon, Y., Ravon, L., Bouchez, O., Bidanel, J.P., Bed&amp;rsquo;Hom, B., Pinard-van der Laan, M.H., Estellé, J., Rogel-Gaillard, C. (2021). Influence of genetics and the pre-vaccination blood transcriptome on the variability of antibody levels after vaccination against Mycoplasma hyopneumoniae in pigs. &lt;em&gt;Genetics Selection Evolution&lt;/em&gt; 53(1):24. doi: &lt;a href=&#34;https://doi.org/10.1186/s12711-021-00614-5&#34; title=&#34;10.1186/s12711-021-00614-5&#34; target=&#34;_blank&#34;&gt;10.1186/s12711-021-00614-5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of strong candidate genes for backfat and intramuscular fatty acid composition in three crosses based on the Iberian pig</title>
+      <link>/publication/2020_scirep_crespo-piazuelo/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_scirep_crespo-piazuelo/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Crespo-Piazuelo, D., Criado-Mesas, L., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Castelló, A., Noguera, J.L.,  Fernández, A.I., Ballester, M., Folch, J.M. (2020). Identification of strong candidate genes for backfat and intramuscular fatty acid composition in three crosses based on the Iberian pig. &lt;em&gt;Scientific Reports&lt;/em&gt;, 10(1):13962. doi: &lt;a href=&#34;https://doi.org/10.1038/s41598-020-70894-2&#34; title=&#34;10.1038/s41598-020-70894-2&#34; target=&#34;_blank&#34;&gt;10.1038/s41598-020-70894-2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cycling at Spain</title>
+      <link>/post/20200430_cyclingatspain/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/20200430_cyclingatspain/</guid>
+      <description>&lt;p&gt;In this post I bring you a little portion of my native country, Spain.&lt;/p&gt;
+&lt;p&gt;The Southwestern Europe country houses some of Europe&amp;rsquo;s greatest climbs and is consider a mecca for many roadies.&lt;/p&gt;
+&lt;p&gt;The combination of two important ingredients for cyclism, such as the dominant Mediterranean climate, characterised by warm/hot and dry summers, and the good routes to ride, make this country a must to go for cycling enthusiasts.&lt;/p&gt;
+&lt;p&gt;Spain&amp;rsquo;s vast and diverse landscape will have you begging for new cycling destinations to tick off in your bucket list.&lt;/p&gt;
+&lt;h3 id=&#34;asturias-&#34;&gt;Asturias&lt;/h3&gt;
+&lt;p&gt;Thousands of cyclists make the pilgrimage up to &lt;a href=&#34;https://www.altimetrias.net/aspbk/verPuerto.asp?id=274&#34; title=&#34;Angliru&#34; target=&#34;_blank&#34;&gt;Alto de l´Angliru&lt;/a&gt;, this mighty ascent is considered one of the most difficult, challenging and hardest climb in the World.
+The 12.5km track has an average gradient of 10.21%, although one particular section -Cueña les Cabres- reaches a brutal 23.5%.
+I am sure you will sweat a lot to get to the top, but the reward will be worth.&lt;/p&gt;
+&lt;p&gt;Not very far for this region, you will find Parque Nacional de los Picos de Europa (Picos de Europa National Park), described as a theme park for cyclist.
+Here you do not miss &lt;a href=&#34;https://www.altimetrias.net/aspbk/verPuerto.asp?id=335&#34; title=&#34;Lagos de Covadonga&#34; target=&#34;_blank&#34;&gt;Lagos de Covadonga&lt;/a&gt;, a stunning series of lakes -Enol and Ercina lakes- over 1 000m up in the sky, and a mythic ascension of Vuelta a España.&lt;/p&gt;
+&lt;h3 id=&#34;granada-andaluciacutea-&#34;&gt;Granada, Andalucía&lt;/h3&gt;
+&lt;p&gt;If you are looking for pure height, in Spain you will also find the highest paved road in Europe, &lt;a href=&#34;https://www.altimetrias.net/aspbk/verPuerto.asp?id=399&#34; title=&#34;Pico Veleta&#34; target=&#34;_blank&#34;&gt;Pico Veleta&lt;/a&gt;, in the high mountain of Sierra Nevada.
+If starting in Granada, it has an astonishing 2 700m elevation gain to its peak and reaches 3 367m at its tallest point.
+You will feel more an alpine climber than a cyclist.&lt;/p&gt;
+&lt;h3 id=&#34;islas-canariasislas-baleares-&#34;&gt;Islas Canarias/Islas Baleares&lt;/h3&gt;
+&lt;p&gt;But Spain is not only the Iberian Peninsula, the Islands (Islas Baleares and Islas Canarias) also provide an excellent opportunity for cycling.
+In fact are a popular choice for professionals doing training stages.&lt;/p&gt;
+&lt;p&gt;If you want to do altitude training, &lt;strong&gt;Islas Canarias&lt;/strong&gt; could be your best choice. A popular choice is &lt;a href=&#34;https://www.altimetrias.net/aspbk/verPuerto.asp?id=152&#34; title=&#34;El Teide&#34; target=&#34;_blank&#34;&gt;El Teide&lt;/a&gt; with its more than 50km of pure climbing.
+Is considered the roof of Spain (3 718m), although you can not quite ride to the top.&lt;/p&gt;
+&lt;p&gt;For the other side, &lt;strong&gt;Islas Baleares&lt;/strong&gt;, and specially &lt;strong&gt;Mallorca&lt;/strong&gt; is considered the original cycling mecca.
+Sa Calobra and Puig Major, are some examples of Mallorca&amp;rsquo;s toughest climbs, but not the only ones.&lt;/p&gt;
+&lt;h3 id=&#34;catalonia-&#34;&gt;Catalonia&lt;/h3&gt;
+&lt;p&gt;For many people Spain is synonym of sun and warm days. One of the finest examples of this mixture is &lt;strong&gt;The Costa Brava&lt;/strong&gt;, running from France down to Blanes, a town just northeast of Barcelona.
+Easily accessible from coastal towns like Begur and the more popular Tossa de Mar, the winding and hilly road that hugs the coastline provides hours of sun-kissed enjoyment.
+It is one of the most unspoilt coastlines in Spain, and its incredible cliffs and sea views will not disappoint you.&lt;/p&gt;
+&lt;p&gt;If you are more interested in explore the place that so many pros call home, &lt;strong&gt;Girona&lt;/strong&gt; is your destination.
+The golden combination of city, coast and mountains means that you can explore a plethora of terrain in one single ride, and is the reason that Girona has become a bit of a &amp;lsquo;must visit&amp;rsquo; in recent years.&lt;/p&gt;
+&lt;h3 id=&#34;the-pyrenees-&#34;&gt;The Pyrenees&lt;/h3&gt;
+&lt;p&gt;Last but not least there is The Pyrenees, mountain range covers 430km, and it stretches over both Spain and France. The French side houses many of the most famous climbs, but Spain has plenty to give - and a fair few climbs span the France/Spain border.&lt;/p&gt;
+&lt;p&gt;Obviously, this is just a glimpse of what Spain as a cycling destination has to offer.
+It is plenty of good roads and unspotted climbs that must to be explored by yourself.&lt;/p&gt;
+&lt;h3 id=&#34;personal-spain-cycling-climb-bucket-list-&#34;&gt;Personal Spain cycling climb bucket list&lt;/h3&gt;
+&lt;p&gt;Here, I show you my Spain cycling climb bucket list, a list that I want to increase in the following years.&lt;/p&gt;
+&lt;p&gt;Before check the plot, some aspect should be highlight:&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; 1. DEGREE OF DIFFICULTY &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;The number associated to each climb represent the degree of difficulty, the bigger the number the bigger the difficulty.&lt;/p&gt;
+&lt;p&gt;This degree is based on the formula given by Juanto Uribarri. A complete description, in Spanish, could be find in this post at &lt;a href=&#34;https://www.altimetrias.net/articulos/4cd.asp&#34; title=&#34;Altimetrias&#34; target=&#34;_blank&#34;&gt;Altimetrias&lt;/a&gt; website.&lt;/p&gt;
+&lt;p&gt;This could be a good estimator to compare the difficulty of different climbs, at least from an objective point of view.&lt;/p&gt;
+&lt;p&gt;Based on this, the climbs are classified in four categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HC&lt;/strong&gt; &lt;em&gt;Hors catégorie&lt;/em&gt;, french term to designate a climb that is &amp;ldquo;beyond categorization&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Category 1&lt;/strong&gt; 120-240&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Category 2&lt;/strong&gt; 60-119&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Category 3&lt;/strong&gt; &amp;lt;60&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;font size=&#34;-1&#34;&gt;
+* Note that in professional cycling stage races such as, &lt;i&gt;&#34;Tour de France&#34;&lt;/i&gt;, &lt;i&gt;&#34;Giro d&#39;Italia&#34;&lt;/i&gt; and &lt;i&gt;&#34;Vuelta a Espa&amp;ntilde;a&#34;&lt;/i&gt;, this classification differs depending of the organization decision.
+&lt;/font&gt;
+&lt;/p&gt;
+&lt;p&gt;For an easy display, only climbings belonging to HC, first and second category are represented.&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; 2. MORE THAN ONE DEGREE OF DIFFICULTY FOR AN SPECIFIC CLIMB &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;For many of the climbs, you have several roads to get to the top. For those cases, the side used is specified and its degree of difficulty indicated as well.&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; 3. COMPLETE INFORMATION FOR THE CLIMB &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;To reveal more information for a specific climb, click on the associated point.&lt;/p&gt;
+&lt;p&gt;The associated information included the length (km), average gradient (%), maximum gradient (%), cumulative elevation gain (m), and the height of the climb (m).&lt;/p&gt;
+&lt;iframe title=&#34;Cycling climb locations in Spain&#34; aria-label=&#34;Locator maps&#34; id=&#34;datawrapper-chart-ZSf73&#34; src=&#34;//datawrapper.dwcdn.net/ZSf73/4/&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;width: 0; min-width: 100% !important; border: none;&#34; height=&#34;459&#34;&gt;&lt;/iframe&gt;&lt;script type=&#34;text/javascript&#34;&gt;!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}();
+&lt;/script&gt;
+&lt;p&gt;I hope you find this post useful and interesting, and if you decide to ride in one of the detailed climbs I am sure it is going to give you the biggest sense of achievement ever.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Bike only moves forward and retains its balance when the rider pedals.&amp;rdquo;&lt;br&gt;
+-Valentín Fuster&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cycling at France</title>
+      <link>/post/20200330_cyclingatfrance/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/20200330_cyclingatfrance/</guid>
+      <description>&lt;p&gt;If you have arrived here searching for something, maybe it is because you, like me, love endurance sports.&lt;/p&gt;
+&lt;p&gt;In this post I am going to talk about other of my passion, road cycling.&lt;/p&gt;
+&lt;p&gt;It does not matter if you consider yourself a climber, or sprinter, or even an occasionaly rider who wants to know more about your surroundings.&lt;/p&gt;
+&lt;p&gt;My passion to cycling came to me in 2014, motivated for an old childhood friend.&lt;/p&gt;
+&lt;p&gt;Since that year until now I have had the chance to ride in some countries, and climb some of the most iconic and rewarding climbs.&lt;/p&gt;
+&lt;p&gt;Here I want to show you the climbs I have made in my current country of residence, France.&lt;/p&gt;
+&lt;p&gt;For many riders France is pretty much consider the king of pain.&lt;/p&gt;
+&lt;p&gt;The home of the &lt;em&gt;&amp;ldquo;Tour de France&amp;rdquo;&lt;/em&gt; is one of the best places in the world to pit yourself against gravity in pursuit of sporting greatness, unbeatable views, and utter exhaustion.&lt;/p&gt;
+&lt;p&gt;Some you will have heard of but never attempted, some offer a fresh perspective on legendary ascents, and others are simply the stuff of cyclists&amp;rsquo; nightmares.&lt;/p&gt;
+&lt;p&gt;Whether you are looking to add a few rides to your bucket list, this plot can help you to find your perfect ride.&lt;/p&gt;
+&lt;p&gt;You can find from legendary climbs consider true icons, to others that are not very know, but equally hard and beautiful.&lt;/p&gt;
+&lt;p&gt;Before check the plot, some aspect should be highlight:&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; 1. DEGREE OF DIFFICULTY &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;The number associated to each climb represent the degree of difficulty, the bigger the number the bigger the difficulty.&lt;/p&gt;
+&lt;p&gt;This degree is based on the formula given by Juanto Uribarri. A complete description, in Spanish, could be find in this post at &lt;a href=&#34;https://www.altimetrias.net/articulos/4cd.asp&#34; title=&#34;Altimetrias&#34; target=&#34;_blank&#34;&gt;Altimetrias&lt;/a&gt; website.&lt;/p&gt;
+&lt;p&gt;This could be a good estimator to compare the difficulty of different climbs, at least from an objective point of view.&lt;/p&gt;
+&lt;p&gt;Based on this, the climbs are classified in four categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HC&lt;/strong&gt; &lt;em&gt;Hors catégorie&lt;/em&gt;, french term to designate a climb that is &amp;ldquo;beyond categorization&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Category 1&lt;/strong&gt; 120-240&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Category 2&lt;/strong&gt; 60-119&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Category 3&lt;/strong&gt; &amp;lt;60&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;font size=&#34;-1&#34;&gt;
+* Note that in professional cycling stage races such as, &lt;i&gt;&#34;Tour de France&#34;&lt;/i&gt;, &lt;i&gt;&#34;Giro d&#39;Italia&#34;&lt;/i&gt; and &lt;i&gt;&#34;Vuelta a Espa&amp;ntilde;a&#34;&lt;/i&gt;, this classification differs depending of the organization decision.
+&lt;/font&gt;
+&lt;/p&gt;
+&lt;p&gt;For an easy display, only climbings belonging to HC, first and second category are represented.&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; 2. MORE THAN ONE DEGREE OF DIFFICULTY FOR AN SPECIFIC CLIMB &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;For many of the climbs, you have several roads to get to the top. For those cases, the side used is specified and its degree of difficulty indicated as well.&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; 3. COMPLETE INFORMATION FOR THE CLIMB &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;To reveal more information for a specific climb, click on the associated point.&lt;/p&gt;
+&lt;p&gt;The associated information included the length (km), average gradient (%), maximum gradient (%), cumulative elevation gain (m), and the height of the climb (m).&lt;/p&gt;
+&lt;iframe title=&#34;Cycling climb locations in Andorra and France&#34; aria-label=&#34;Locator maps&#34; id=&#34;datawrapper-chart-RTuBK&#34; src=&#34;//datawrapper.dwcdn.net/RTuBK/9/&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;width: 0; min-width: 100% !important; border: none;&#34; height=&#34;509&#34;&gt;&lt;/iframe&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;!function(){&#34;use strict&#34;;window.addEventListener(&#34;message&#34;,function(a){if(void 0!==a.data[&#34;datawrapper-height&#34;])for(var e in a.data[&#34;datawrapper-height&#34;]){var t=document.getElementById(&#34;datawrapper-chart-&#34;+e)||document.querySelector(&#34;iframe[src*=&#39;&#34;+e+&#34;&#39;]&#34;);t&amp;&amp;(t.style.height=a.data[&#34;datawrapper-height&#34;][e]+&#34;px&#34;)}})}();
+&lt;/script&gt;
+&lt;p&gt;I hope you find this post useful and interesting, and if you decide to ride in one of the detailed climbs I am sure it is going to give you the biggest sense of achievement ever.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Those who ride a bicycle know that in life nothing is really flat.&amp;rdquo;&lt;br&gt;
+-Renè Fallet&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MICROFEED project</title>
+      <link>/project/microfeed-project/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/microfeed-project/</guid>
+      <description>&lt;h4 id=&#34;title-&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Understanding the importance of gut microbiota for the improvement of swine efficiency and robustness&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://genphyse.toulouse.inra.fr/people/gilbert&#34; title=&#34;Dr. H&amp;amp;eacute;l&amp;amp;egrave;ne Gilbert&#34; target=&#34;_blank&#34;&gt;Dr. Hélène Gilbert&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://genphyse.toulouse.inra.fr/&#34; title=&#34;GenPhySE&#34; target=&#34;_blank&#34;&gt;Génétique Physiologie et Systèmes dElevage (GenPhySE)&lt;/a&gt;, Animal Physiology and Livestock Systems Divisions, &lt;a href=&#34;https://www.inrae.fr/en&#34; title=&#34;INRAE&#34; target=&#34;_blank&#34;&gt;INRAE&lt;/a&gt;, Toulouse, France&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/en/&#34; title=&#34;ANR&#34; target=&#34;_blank&#34;&gt;National Agency for Research (ANR)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;719 339 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/Project-ANR-16-CE20-0003&#34; title=&#34;ANR-16-CE20-0003&#34; target=&#34;_blank&#34;&gt;ANR-16-CE20-0003&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;abstract-&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;MICROFEED will study a generally ignored partner of livestock, the gut microbiota, to refund the improvement of production efficiency and robustness in pig breeding. The gut microbiota is an essential contributor to the availability of nutrients in the animal gut, contributing to its growth, health and immunity.&lt;/p&gt;
+&lt;p&gt;MICROFEED will explore the gut microbiota component and its link with the genetic and genomic of feed efficiency and robustness of the host in two unique designs developed to study the pig feed efficiency. The first design relies on 10 generations of divergent selection for feed efficiency in two pig lines fed a conventional diet, to identify and quantify the impact of the gut microbiota potentially co-selected in response to genetic improvement for feed efficiency. The second design is based on a commercial population currently selected for production by the French pig breeders, from which the divergent lines were selected. It will be divided into two sub-designs of related pigs fed either a conventional diet or a high dietary fibers diet more difficult to digest. This second design is the result of collaboration between INRA and the pig breeders grouped in FGPorc in the frame of the H2020 Feed-a-Gene project to study the pig feed efficiency in response to lowered feed quality. In a first step, MICROFEED will produce new data (phenotypes, genotypes) in the two designs (908 pigs in Design 1 and 1700 in Design 2), together with feces samples for partial sequencing (16S) of the gut microbiota (600 + 1600 samples) to evaluate quantitatively the contribution of the gut microbiota to the variability of pig feed efficiency, and to test the effect of diet changes on this contribution. Prediction equations from the gut microbiota and host genomic data will be established. In a second step, whole-metagenome sequencing of 96 samples representing key microbiota profiles for extreme feed efficiency phenotypes, and whole-genome sequencing of 40 pigs best representing the two designs diversity will be obtained. These will be combined to identify the host and gut microbiota genes and functions involved in the feed efficiency of the pig and its robustness to diet changes, and to dissect the underlying biological mechanisms. Finally, external feces samples, genotypes and phenotypes available among the consortium from other projects, including different breeds, feeds, breeding conditions, will be used for validating the prediction equations established in the first step, to test their robustness to these factors and to then propose new selection and management strategies for pig breeding. By identifying which microbes contribute to feed efficiency and which are robustness to feed changes, MICROFEED will propose new genomic tools to jointly pilot the gut microbiota composition and the host genetic in terms of genetic selection for pig breeders, but also in terms of nutrition and feeding for the feeding industry.&lt;/p&gt;
+&lt;p&gt;MICROFEED is structured in eight tasks, including one for the project management (Task 0) and one for the dissemination and transfer (Task 7). The two first tasks will concern data acquisition, the three following tasks will concentrate on acquisition of new knowledge on the relationships between host, gut microbiota and feed. Task 6 will validate these results and propose new strategies for selection and feeding.&lt;/p&gt;
+&lt;p&gt;The consortium is composed of seven INRA groups specialized in pig genetics and genomics, feed efficiency and gut microbiota, plus two private partners from the French pig breeding industry representing more than 75% of the French pig genetic market. The total cost of MICROFEED is 1.4 million euros (not including INRA salaries), comprising a contribution of 258 k€ from the private companies and a demand to the ANR of 719 k€, for a labor of 227 person.months during 4 years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amateur marathoner</title>
+      <link>/post/20191213_amateur/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/20191213_amateur/</guid>
+      <description>&lt;p&gt;Amateur is a word taken from French, that was present in that language since the XV century, after replacing the popular form &lt;em&gt;&amp;ldquo;amaor&amp;rdquo;&lt;/em&gt;, which derives from the Latin &lt;em&gt;&amp;ldquo;amator&amp;rdquo;&lt;/em&gt; meaning &amp;ldquo;who loves&amp;rdquo;.
+Then in the XVIII century it was given a modern meaning alluding to one who practises a science, art, sport&amp;hellip; without the need to be professional for it, but it was not until the XIX century that the amateur word was implemented as a sporting term.&lt;/p&gt;
+&lt;p&gt;For myself, I honor the amateur spirit upon which the sport was founded and champion the Running Class - the non-professional yet competitive runners dedicated to the pursuit of personal excellence.&lt;/p&gt;
+&lt;p&gt;Anyone who knows me will know that one of my passions are endurance sports, with specially attention to marathons.&lt;/p&gt;
+&lt;p&gt;I believe in competition and the meritocracy of racing. Not because winning and losing are particularly important, but because competition sends us on an innately human journey. A large part of training for a marathon is learning from your mistakes. Runners must listen to their bodies and decide when to train, and when not to train, based on how they cope will all they put the body through. The profound physical and mental demands of training and racing lead to a richer and more sensitive and thrilling life. In my experience, I&amp;rsquo;ve gained a lot of humility and perseverance for completing the marathon distance.&lt;/p&gt;
+&lt;p&gt;Furthermore, I usually combine this passion with other of my hobbies, meet new landscapes and communities&amp;hellip; I consider that traveling cross-world is a fulfilling way to enhance each marathon experience. It has led me to participate in several marathons around the world, trying to improve, in each one of my participations, my personal record.&lt;/p&gt;
+&lt;p&gt;Last April 15 I set my personal best time in the Boston Marathon, my first Major. For those who are not familiar with this term, a Major is the conversational style to call a marathon which belongs to the &lt;a href=&#34;https://www.worldmarathonmajors.com/&#34; title=&#34;Abbott World Marathon Majors&#34; target=&#34;_blank&#34;&gt;Abbott World Marathon Majors&lt;/a&gt;. A series consisting of six of the largest and most renowned marathons in the world. The races take place in Tokyo, Boston, London, Berlin, Chicago and New York City.&lt;/p&gt;
+&lt;p&gt;I can&amp;rsquo;t be happier about my first participation in a Major, because I broke my &lt;strong&gt;personal record&lt;/strong&gt;, setting up a finishing time of &lt;strong&gt;02h48&#39;23&amp;rdquo;&lt;/strong&gt;, which represent a pace of &lt;strong&gt;3&#39;59&amp;rdquo;/km (15.04 km/h)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In this plot you can find all my participations and my personal progression in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Pheidippides&#34; title=&#34;Philippides&#34; target=&#34;_blank&#34;&gt;Philippides&lt;/a&gt; (Φιλιππíδης) distance.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/RScatterPlot_MarathonParticipations.png&#34; &gt;
+&lt;img src=&#34;/img/RScatterPlot_MarathonParticipations.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;If you want to dive into my personal marathon participation statistics I invite you to check this summary table.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/RTablePlot_MarathonParticipations.png&#34; &gt;
+&lt;img src=&#34;/img/RTablePlot_MarathonParticipations.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Moreover, in the following tables you can see the all-time top-5 marathoners (men and women), which reflects that human beings have no limits.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/RTablePlotAthletes_Men_Marathon.png&#34; &gt;
+&lt;img src=&#34;/img/RTablePlotAthletes_Men_Marathon.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/RTablePlotAthletes_Women_Marathon.png&#34; data-caption=&#34;Source: World Athletics (before International Association of Athletics Federations, IAAF)&#34;&gt;
+&lt;img src=&#34;/img/RTablePlotAthletes_Women_Marathon.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Source: World Athletics (before International Association of Athletics Federations, IAAF)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In each of my training programs for the marathon I take notes that help me improve my performance, as well as embody my personal experiences. Remembering the notes I usually take, the plots shown in this post are made using the R package &lt;a href=&#34;https://CRAN.R-project.org/package=xkcd&#34; title=&#34;xkcd&#34; target=&#34;_blank&#34;&gt;xkcd&lt;/a&gt;, which represents the traces of handwriting.&lt;/p&gt;
+&lt;p&gt;Last but not least, I want to share with you this quote of &amp;ldquo;&lt;a href=&#34;https://archive.org/details/borntorunhiddent00mcdo&#34; title=&#34;Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen&#34; target=&#34;_blank&#34;&gt;Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen&lt;/a&gt;&amp;rdquo; book, a must to be read if you want to be consider as a marathoner:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed.
+Every morning in Africa, a lion wakes up.
+It knows it must run faster than the slowest gazelle, or it will starve.
+It doesn&amp;rsquo;t matter whether you&amp;rsquo;re the lion or a gazelle-when the sun comes up, you&amp;rsquo;d better be running.&amp;rdquo;&lt;br&gt;
+-Christopher McDougall&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello &amp; Welcome to my first blog post</title>
+      <link>/post/20191206_welcome/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/20191206_welcome/</guid>
+      <description>&lt;p&gt;Welcome to the launch of my first website and my first blog post! My name is Manuel Revilla and I am so excited to share with you all my contributions to the scientific world gathered together in one website. The amount of ideas, how-to&amp;rsquo;s and inspiration whirling around in my head is ready to jump out.&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; Why I started my website/blog &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;I wanted to start by telling you why I created this blog, what you will be seeing more of in my posts, and my overall experience of creating my website.&lt;/p&gt;
+&lt;p&gt;Since I started in academia, I have witnessed the emergence of huge amount of vias to share and disseminate our scientific contributions to an specific area of knowledge and the general public. All of them, to a greater or lesser extent, fulfill their purpose. But sometimes we miss out on valuable information among the wide range of communication channels available. That&amp;rsquo;s why I decided to create this website as an official way of communication, and make you easier to know more and more about my professional progession as a researcher.&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; First of all, I apologize &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;English writing has never been a strong suite of mine and I will tell you, I am no expert on any of this. I try to be a &amp;ldquo;perfectionist&amp;rdquo; but I am nowhere near perfect. I figure it will be a lot of trial and error so please bear with me on any grammar/spelling mistakes.&lt;/p&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;strong&gt;&amp;middot; Enjoy the experience of building your own website/blog &amp;middot;&lt;/strong&gt; 
+&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;After being inspired to start my website/blog, I wanted to create them in a professional way and would allow me to make updates in a simple and fast way. I could have gone to a web designer, but in that case I would have lost the experience of creating on my own. Taking advantage of my skills in &lt;a href=&#34;https://www.r-project.org/&#34; title=&#34;R&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; environment, I decided to built it using &lt;a href=&#34;https://rstudio.com/&#34; title=&#34;RStudio&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt; open-source. As a researcher I am used to work programming in R to perform statistical and data analysis, so why not develop my own website using this language and have fun throughout the entire process&amp;hellip; This means I would be able to maintain my website in R, have a lot more flexibility and control over the look of my website.&lt;/p&gt;
+&lt;p&gt;In the next lines I summarize the steps I follow to create my website. For a more detail guideline you can consult the extremely helpful &lt;a href=&#34;https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/&#34; title=&#34;blog of Alison Hill&#34; target=&#34;_blank&#34;&gt;blog of Alison Hill&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Setting up &lt;a href=&#34;https://pages.github.com/&#34; title=&#34;GitHub Pages&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a GitHub account&lt;/li&gt;
+&lt;li&gt;On your dashboard, create a New Repository (your_username.github.io)&lt;/li&gt;
+&lt;li&gt;Create a local copy of this repository&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Launch RStudio and create a New Project. Navigate to the folder above the working directory you just created from GitHub.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; title=&#34;blogdown&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; package in your RStudio console:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;## Install from CRAN
+install.packages(&amp;quot;blogdown&amp;quot;)
+## Or, install from GitHub
+if (!requireNamespace(&amp;quot;devtools&amp;quot;)) install.packages(&amp;quot;devtools&amp;quot;)
+devtools::install_github(&amp;quot;rstudio/blogdown&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Install &lt;a href=&#34;https://gohugo.io/&#34; title=&#34;Hugo&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; using the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; title=&#34;blogdown&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt; package helper function:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;blogdown::install_hugo()
+# or
+library(blogdown)
+install_hugo()
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Build your site by choosing the &lt;a href=&#34;https://themes.gohugo.io/&#34; title=&#34;Hugo themes&#34; target=&#34;_blank&#34;&gt;Hugo themes&lt;/a&gt; that you like the most. If you belong to the academia field, &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; title=&#34;Hugo Academic Theme&#34; target=&#34;_blank&#34;&gt;Hugo Academic Theme&lt;/a&gt; could be a good choice, this theme offers all the sections present in a standard &lt;em&gt;curriculum vitae&lt;/em&gt; with a clean simple interface:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;# create a new site with the academic theme
+blogdown::new_site(theme = &amp;quot;.../hugo-academic&amp;quot;, theme_example = TRUE)
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Configurate and customizate according your personal preferences. A complete guideline for the Hugo Academic theme can be find &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/&#34; title=&#34;here&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Running locally &lt;code&gt;blogdown:::serve_site()&lt;/code&gt; in your RStudio project is especially useful as you can inmediately see the changes you have perform. If you would like to have Google monitor the analytics for your site so that you can study traffic flow on your pages, you will need to enable &lt;a href=&#34;https://marketingplatform.google.com/intl/com/about/analytics/&#34; title=&#34;Google Analytics&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;. First, sign up &lt;a href=&#34;https://accounts.google.com/signin/v2/identifier?service=analytics&amp;amp;passive=1209600&amp;amp;continue=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F%3Futm_source%3Dmarketingplatform.google.com%26utm_medium%3Det%26utm_campaign%3Dmarketingplatform.google.com%2Fabout%2Fanalytics%2F%23&amp;amp;followup=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F%3Futm_source%3Dmarketingplatform.google.com%26utm_medium%3Det%26utm_campaign%3Dmarketingplatform.google.com%2Fabout%2Fanalytics%2F&amp;amp;flowName=GlifWebSignIn&amp;amp;flowEntry=ServiceLogin&#34; title=&#34;here&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. It will generate a tracking code for you. Enter the tracking code into &lt;code&gt;config.toml&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Link or host your local repository on your GitHub repository. For default your website domain will be (&lt;a href=&#34;https://your_username.github.io/)&#34;&gt;https://your_username.github.io/)&lt;/a&gt;. If you want to set up a custom domain for your personal domain, in my case I buy &lt;a href=&#34;http://manuel-revilla.com/&#34; title=&#34;www.manuel-revilla.com&#34; target=&#34;_blank&#34;&gt;www.manuel-revilla.com&lt;/a&gt;, you can purchase one in &lt;a href=&#34;https://domains.google/&#34; title=&#34;Google Domains&#34; target=&#34;_blank&#34;&gt;Google Domains&lt;/a&gt;, is a very straightforward process. After that you can set up the custom domain for your website following the instructions of the &lt;a href=&#34;https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site&#34; title=&#34;GitHub documentation&#34; target=&#34;_blank&#34;&gt;GitHub documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Last but not least, show your personal website to the World ;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;Very breef summary of the esencial steps to build your personal website:
+
+- [x] Web: GitHub         | Create an account using GithHub Pages
+- [x] RStudio             | package needed: &amp;quot;devtools&amp;quot;, &amp;quot;blogdown&amp;quot; and &amp;quot;hugo&amp;quot;
+- [x] RStudio             | Configurate and customizate your website
+- [x] Web: GitHub         | Link or host your local repository (https://your_username.github.io/)
+- [ ] Web: Google Domains | Buy and set up your personal domain
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;Please feel free to always share your advice and communicate with me along the way!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PIGLETBIOTA project</title>
+      <link>/project/pigletbiota-project/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pigletbiota-project/</guid>
+      <description>&lt;h4 id=&#34;title-&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;An integrative biology-based study of the influence of intestinal microbiota composition on piglet robustness at weaning in a perspective of a limited use of antibiotics in livestock production&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0002-6241-1732&#34; title=&#34;Dr. Jordi Estell&amp;amp;eacute;&#34; target=&#34;_blank&#34;&gt;Dr. Jordi Estellé&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www6.jouy.inra.fr/gabi_eng/Our-Research/Teams-and-projects/GIS&#34; title=&#34;GeMS&#34; target=&#34;_blank&#34;&gt;Génétique, Microbiote, Santé (GeMS)&lt;/a&gt;, &lt;a href=&#34;https://www6.jouy.inra.fr/gabi_eng/&#34; title=&#34;GABI&#34; target=&#34;_blank&#34;&gt;Animal Genetics and Integrative Biology (GABI)&lt;/a&gt;, &lt;a href=&#34;http://www.inra.fr/en&#34; title=&#34;INRA&#34; target=&#34;_blank&#34;&gt;INRA&lt;/a&gt;, Jouy-en-Josas, France&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/en/&#34; title=&#34;ANR&#34; target=&#34;_blank&#34;&gt;National Agency for Research (ANR)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;793 719 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://anr.fr/Project-ANR-14-CE18-0004&#34; title=&#34;ANR-14-CE18-0004&#34; target=&#34;_blank&#34;&gt;ANR-14-CE18-0004&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;abstract-&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;The future challenge in animal production will be to provide food to a growing human population by respecting a balance between quality products, consumer acceptance and safety, as well as animal welfare. In a perspective of safe and sustainable food systems, reducing the use of antibiotics in livestock is a major concern. In fact, antibiotic resistance is one of the major medical challenges of the 21st century. The transfer of genes conferring resistance through the environment and the food chain, the potential for development of resistant bacteria and the appearance of therapeutic failures in human medicine, notably due to zoonotic bacteria, constitute major health issues for livestock farming sectors.&lt;/p&gt;
+&lt;p&gt;In the pig breeding industry, the weaning period is often accompanied by a decreased growth rate caused by disparate food intake and diarrhoea due to digestive disorders that might be associated with bacterial population disequilibrium (i.e. dysbiosis) and/or opportunistic intestinal infections. Alarmingly, during this transition period the prophylactic use of antibiotics is still very frequent in order to limit piglet morbidity and mortality. Thus, reducing the prophylactic use of antibiotics in weaning pigs is a main issue and there is a strong need for alternatives.
+In this context, we have built a public-private partnership that gathers INRA scientists and industries from economic sectors of both animal feeding and pig breeding. PigletBiota is a precompetitive project that will study the physiological and genetic bases of the piglet sensitivity at weaning, as a prerequisite to identify innovative actions to adapt animals and pig production systems to a reduction of antibiotic use.&lt;/p&gt;
+&lt;p&gt;The global aim of the PIGLETBIOTA project is to develop research that will contribute to adapt pig production systems to a reduction of antibiotics. The project proposes an integrative biology approach to determine the main factors influencing the variability of the individual&amp;rsquo;s robustness at weaning. We will monitor piglets for health, immune, stress and zootechnical traits and will characterize the intestinal microbiota diversity and composition as well as the contribution of host&amp;rsquo;s genotypes. The experimental design will combine various environments, including experimental and commercial farms, and ages at weaning and all animals will be fed without antibiotics. Animals (n~1000) will be clinically surveyed, measured for various traits related to production, immunity and stress, and genotyped with high-density SNP chips. The genetic parameters of the sensitivity at weaning will be estimated and genetic association studies performed. Faecal samples before and after the weaning date will be collected for characterizing the dynamics of the gut microbiota and studying its influence on the individual sensitivity at weaning. Animal and microbiota data will be vertically integrated in order to better understand the interplay between the these two levels of this biological system, and to develop robust indicators of weaning sensitivity. Finally, a functional screening using INRA platforms dedicated to human studies will be performed in order to detect active molecules to be tested &lt;em&gt;in vivo&lt;/em&gt; and by using an axenic pigs model. The PigletBiota public-private consortium will favor translational research and innovation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards the quantitative characterisation of piglets&#39; robustness to weaning: a modelling approach</title>
+      <link>/publication/2019_animal_revilla/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_animal_revilla/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Revilla, M.&lt;/strong&gt;, Friggens, N.C., Broudiscou, L., Lemonnier, G., Blanc, F., Ravon, L., Mercat, J.M., Billon, Y., Rogel-Gaillard, R., Le Floch, N., Estellé, J., Muñoz-Tamayo, R. (2019). Towards the quantitative characterisation of piglets&amp;rsquo; robustness to weaning: A modelling approach. &lt;em&gt;Animal&lt;/em&gt;
+, 13(11):2536-2546. doi: &lt;a href=&#34;https://doi.org/10.1017/S1751731119000843&#34; title=&#34;10.1017/S1751731119000843&#34; target=&#34;_blank&#34;&gt;10.1017/S1751731119000843&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indel detection from Whole Genome Sequencing data and association with lipid metabolism in pigs</title>
+      <link>/publication/2019_plosone_crespo-piazuelo/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_plosone_crespo-piazuelo/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full Citation&lt;/h4&gt;
+&lt;p&gt;Crespo-Piazuelo, D., Criado-Mesas, L., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Castelló, A., Fernández, A.I., Folch, J.M., Ballester, M. (2019). Indel detection from Whole Genome Sequencing data and association with lipid metabolism in pigs. &lt;em&gt;PLoS One&lt;/em&gt;, 14(6):e0218862. doi: &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0218862&#34; title=&#34;10.1371/journal.pone.0218862&#34; target=&#34;_blank&#34;&gt;10.1371/journal.pone.02188622&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Association between the pig genome and its gut microbiota composition</title>
+      <link>/publication/2019_scirep_crespo-piazuelo/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_scirep_crespo-piazuelo/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Crespo-Piazuelo, D., Migura-Garcia, L., Estellé, J., Criado-Mesas, L., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Castelló, A., Muñoz, M., García-Casco, J.M., Fernández, A.I., Ballester, M., Folch, J.M. (2019). Association between the pig genome and its gut microbiota composition. &lt;em&gt;Scientific Reports&lt;/em&gt;, 9(1):8791. doi: &lt;a href=&#34;https://doi.org/10.1038/s41598-019-45066-6&#34; title=&#34;10.1038/s41598-019-45066-6&#34; target=&#34;_blank&#34;&gt;10.1038/s41598-019-45066-6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;porridge &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; porridge &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;:
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+One
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+Three
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{% speaker_note %}}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Press &lt;span style=&#34;color:#e6db74&#34;&gt;`S`&lt;/span&gt; key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-image&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/img/boards.jpg&amp;#34;&lt;/span&gt; &amp;gt;}}
+{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &amp;gt;}}
+{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt; {
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;navy&lt;/span&gt;;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization of bacterial microbiota compositions along the intestinal tract in pigs and their interactions and functions</title>
+      <link>/publication/2018_scirep_crespo-piazuelo/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_scirep_crespo-piazuelo/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Crespo-Piazuelo, D., Estellé, J., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Criado-Mesas, L., Ramayo-Caldas, Y., Óvilo, C., Fernández, A.I., Ballester, M., Folch, J.M. (2018). Characterization of bacterial microbiota compositions along the intestinal tract in pigs and their interactions and functions. &lt;em&gt;Scientific Reports&lt;/em&gt;, 8(1):12727. doi: &lt;a href=&#34;https://doi.org/10.1038/s41598-018-30932-6&#34; title=&#34;10.1038/s41598-018-30932-6&#34; target=&#34;_blank&#34;&gt;10.1038/s41598-018-30932-6&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;This website is released under a &lt;!-- raw HTML omitted --&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;!-- raw HTML omitted --&gt;. Learn more about this license visiting the &lt;!-- raw HTML omitted --&gt;frequently asked questions&lt;!-- raw HTML omitted --&gt; section.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Nothing on this website requires you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.&lt;/p&gt;
+&lt;p&gt;This information is collected via cookies. Most web browsers allow you to control handling of cookies. You can disable all cookies for this website without in any way reducing the functionality for you.&lt;/p&gt;
+&lt;p&gt;This website is designed with the purpuose that your IP address is anonymised within Google Analytics and the &amp;ldquo;Do Not Track&amp;rdquo; request is respected.&lt;/p&gt;
+&lt;p&gt;Under no circumstances this website collect your personal information.&lt;/p&gt;
+&lt;p&gt;Google Analytics does collect some information about you. See the &lt;!-- raw HTML omitted --&gt;Google Analytics&lt;!-- raw HTML omitted --&gt; privacy page for more information.&lt;/p&gt;
+&lt;p&gt;For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expression analysis of candidate genes for fatty acid composition in adipose tissue and identification of regulatory regions</title>
+      <link>/publication/2018_scirep_revilla/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_scirep_revilla/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Revilla, M.&lt;/strong&gt;, Puig-Oliveras, A., Crespo-Piazuelo, D., Criado-Mesas, L., Castelló, A., Fernández, A.I., Ballester, M., Folch, J.M. (2018). Expression analysis of candidate genes for fatty acid composition in adipose tissue and identification of regulatory regions. &lt;em&gt;Scientific Reports&lt;/em&gt;, 8(1):2045. doi: &lt;a href=&#34;https://doi.org/10.1038/s41598-018-20473-3&#34; title=&#34;10.1038/s41598-018-20473-3&#34; target=&#34;_blank&#34;&gt;10.1038/s41598-018-20473-3&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs</title>
+      <link>/publication/2018_scirep_ramayo-caldas/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_scirep_ramayo-caldas/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Ramayo-Caldas, Y., Ballester, M., Sánchez, J.P., González-Rodríguez, O., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Reyer, H., Wimmers, K., Torrallardona, D., Quintanilla, R. (2018). Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs. &lt;em&gt;Scientific Reports&lt;/em&gt;, 8(1):558. doi: &lt;a href=&#34;https://doi.org/10.1038/s41598-017-19072-5&#34; title=&#34;10.1038/s41598-017-19072-5&#34; target=&#34;_blank&#34;&gt;10.1038/s41598-017-19072-5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Association of genetic variants and expression levels of porcine FABP4 and FABP5 genes</title>
+      <link>/publication/2017_animgenet_ballester/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_animgenet_ballester/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Ballester, M., Puig-Oliveras, A., Castelló, A., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Fernández, A.I., Folch, J.M. (2017). Association of genetic variants and expression levels of porcine FABP4 and FABP5 genes. &lt;em&gt;Animal Genetics&lt;/em&gt;, 48(6):660-668. doi: &lt;a href=&#34;https://doi.org/10.1111/age.12620&#34; title=&#34;10.1111/age.12620&#34; target=&#34;_blank&#34;&gt;10.1111/age.12620&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBIOME project</title>
+      <link>/project/ibiome-project/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/ibiome-project/</guid>
+      <description>&lt;h4 id=&#34;title-&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Genetic and functional validation of QTLs,  genes  and  gene  networks  and  study  of  microbiome  effect  on  growth, fatness and meat quality in swine&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-3689-1303&#34; title=&#34;Dr. Josep M Folch&#34; target=&#34;_blank&#34;&gt;Dr. Josep M Folch&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cragenomica.es/&#34; title=&#34;CRAG&#34; target=&#34;_blank&#34;&gt;Centre de Recerca en Agrigenòmica (CRAG)&lt;/a&gt;, &lt;a href=&#34;https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html&#34; title=&#34;UAB&#34; target=&#34;_blank&#34;&gt;Universitat Autònoma de Barcelona (UAB)&lt;/a&gt;, Bellaterra, Barcelona, Spain&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mineco.gob.es/portal/site/mineco/menuitem.aa5c961c0709f0fe3e85b782026041a0/?vgnextoid=7c9f2f207c415310VgnVCM1000001d04140aRCRD&amp;amp;lang_choosen=en&#34; title=&#34;MINECO&#34; target=&#34;_blank&#34;&gt;Ministry of Economy and Competitiveness (MINECO)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;211 750 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;AGL2014-56369-C2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genomic and functional genomic analysis of fatty acid composition in swine</title>
+      <link>/dissertation/phd_thesis/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/dissertation/phd_thesis/</guid>
+      <description>&lt;h4 id=&#34;publication-type-&#34;&gt;Publication type&lt;/h4&gt;
+&lt;p&gt;Thesis&lt;/p&gt;
+&lt;h4 id=&#34;title-&#34;&gt;Title&lt;/h4&gt;
+&lt;p&gt;Genomic and functional genomic analysis of fatty acid composition in swine&lt;/p&gt;
+&lt;h4 id=&#34;author-&#34;&gt;Author&lt;/h4&gt;
+&lt;p&gt;Manuel Revilla&lt;/p&gt;
+&lt;h4 id=&#34;directors-&#34;&gt;Directors&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-3689-1303&#34; title=&#34;Dr. Josep M Folch&#34; target=&#34;_blank&#34;&gt;Dr. Josep M Folch&lt;/a&gt; and &lt;a href=&#34;https://orcid.org/0000-0002-5413-4640&#34; title=&#34;Dr. Maria Ballester&#34; target=&#34;_blank&#34;&gt;Dr. Maria Ballester&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;date-of-defense-&#34;&gt;Date of defense&lt;/h4&gt;
+&lt;p&gt;June 29, 2017&lt;/p&gt;
+&lt;h4 id=&#34;place-of-defence-&#34;&gt;Place of defence&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;hhttps://www.cragenomica.es/&#34; title=&#34;CRAG&#34;&gt;Centre de Recerca en Agrigenòmica (CRAG)&lt;/a&gt;, Barcelona, Spain&lt;/p&gt;
+&lt;h4 id=&#34;place-of-publication-&#34;&gt;Place of publication&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.uab.cat/web/department-of-animal-and-food-science-1345715709728.html&#34; title=&#34;Departament de Ciencia Animal i dels Aliments&#34; target=&#34;_blank&#34;&gt;Departament de Ciència Animal i dels Aliments&lt;/a&gt;, &lt;a href=&#34;https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html&#34; title=&#34;UAB&#34; target=&#34;_blank&#34;&gt;Universitat Autònoma de Barcelona (UAB)&lt;/a&gt;,  Barcelona, Spain&lt;/p&gt;
+&lt;h4 id=&#34;degree-&#34;&gt;Degree&lt;/h4&gt;
+&lt;p&gt;PhD degree in Animal Production&lt;/p&gt;
+&lt;h4 id=&#34;award-&#34;&gt;Award&lt;/h4&gt;
+&lt;p&gt;International doctoral research component&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cum Laude&lt;/em&gt; Mention&lt;/p&gt;
+&lt;p&gt;Extraordinary PhD Award in the field on Animal Production by UAB&lt;/p&gt;
+&lt;h4 id=&#34;pages-&#34;&gt;Pages&lt;/h4&gt;
+&lt;p&gt;261&lt;/p&gt;
+&lt;h4 id=&#34;isbn-&#34;&gt;ISBN&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tdx.cat/handle/10803/405710#page=1&#34; title=&#34;9788449071850&#34; target=&#34;_blank&#34;&gt;9788449071850&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;abstract-&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Pork is one of the main sources of human-consumed meat and consumer&amp;rsquo;s preference towards high quality meat is increasing. Hence, understanding the molecular mechanisms affecting meat production and quality would help in the selection of these traits. Meat quality is determined largely by its fatty acid (FA) composition and understanding the underlying molecular processes of FA composition is the general objective of this thesis.&lt;/p&gt;
+&lt;p&gt;We analyzed quantitative trait loci (QTL) on porcine chromosome 8 (SCC8) for FA composition in backfat, identifying two trait-associated SNP regions at 93 Mb and 119 Mb. The strongest statistical signals for both regions were observed for palmitoleic acid and, C18:0/C16:0 and C18:1(n-7)/C16:1(n-7) elongation ratios. &lt;em&gt;MAML3&lt;/em&gt; and &lt;em&gt;SETD7&lt;/em&gt; genes were analyzed as positional candidate genes in the 93 Mb region. The two novel microsatellites analyzed in the &lt;em&gt;MAML3&lt;/em&gt; gene, and the &lt;em&gt;SETD7:c.700G&amp;gt;T&lt;/em&gt; SNP in the &lt;em&gt;SETD7&lt;/em&gt; gene did not show the strongest signal in this region, discarding these polymorphisms as the causal mutations. Furthermore, in the 119 Mb region, the &lt;em&gt;ELOVL6:c.-533C&amp;gt;T&lt;/em&gt; SNP showed a strong association with the percentage of palmitic and palmitoleic acids and elongation ratios in backfat. These results for &lt;em&gt;ELOVL6&lt;/em&gt; gene, support the hypothesis that it has a pleiotropic effect in backfat and muscle for the 119 Mb QTL, and reinforce this gene as a strong candidate for the SSC8 QTL for FA composition.&lt;/p&gt;
+&lt;p&gt;Moreover, whole genome sequence (WGS) data from Iberian and Landrace pigs were used to identify 1,279 copy number variations (CNVs), merging into 540 swine CNV regions (CNVRs). The impact of four of them in growth and FA composition in intramuscular fat and backfat was studied. Association with carcass length and FA composition in backfat and intramuscular fat was showed for the CNVR112, containing the &lt;em&gt;GPAT2&lt;/em&gt; gene which catalyse the biosynthesis of triglycerides and glycerophospholipids. These results underline the importance of CNVRs affecting economically important traits in pigs.&lt;/p&gt;
+&lt;p&gt;Finally, the adipose tissue mRNA expression of 44 candidate genes related with lipid metabolism was analyzed in 115 animals. The expression genome-wide association (eGWAS) identified 193 eSNPs located in 19 expression QTLs (eQTLs). Three out of 19 eQTLs corresponding to &lt;em&gt;ACSM5&lt;/em&gt;, &lt;em&gt;FABP4&lt;/em&gt;, and &lt;em&gt;FADS2&lt;/em&gt; were classified as &lt;em&gt;cis&lt;/em&gt;-acting eQTLs, whereas the remaining 16 eQTLs had &lt;em&gt;trans&lt;/em&gt;-regulatory effects. These findings and the polymorphisms evaluated for some of these genes provide new data to further understand the functional mechanisms implicated in the variation of meat quality traits in pigs.&lt;/p&gt;
+&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Revilla, M.&lt;/strong&gt; (2017) Genomic and functional genomic analysis of fatty acid composition in swine. PhD thesis, Universitat Autònoma de Barcelona. &lt;em&gt;ISBN:&lt;/em&gt; &lt;a href=&#34;https://www.tdx.cat/handle/10803/405710#page=1&#34; title=&#34;9788449071850&#34; target=&#34;_blank&#34;&gt;9788449071850&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A global analysis of CNVs in swine using whole genome sequence data and association analysis with fatty acid composition and growth traits</title>
+      <link>/publication/2017_plosone_revilla/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_plosone_revilla/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Revilla, M.&lt;/strong&gt;, Puig-Oliveras, A., Castelló, A.,  Crespo-Piazuelo, D., Paludo, E., Fernández, A.I., Ballester, M., Folch, J.M. (2017). A global analysis of CNVs in swine using whole genome sequence data and association analysis with fatty acid composition and growth traits. &lt;em&gt;PLoS One&lt;/em&gt;, 12(5):e0177014. doi: &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0177014&#34; title=&#34;10.1371/journal.pone.017701&#34; target=&#34;_blank&#34;&gt;10.1371/journal.pone.017701&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integration of liver gene co-expression networks and eGWAs analyses highlighted candidate regulators implicated in lipid metabolism in pigs</title>
+      <link>/publication/2017_scirep_balleter/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_scirep_balleter/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Ballester, M., Ramayo-Caldas, Y., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Corominas, J., Castelló, A., Estellé, J., Fernández, A.I., Folch, J.M. (2017). Integration of liver gene co-expression networks and eGWAs analyses highlighted candidate regulators implicated in lipid metabolism in pigs. &lt;em&gt;Scientific Reports&lt;/em&gt;, 7:46539. doi: &lt;a href=&#34;https://doi.org/10.1038/srep46539&#34; title=&#34;10.1038/srep46539&#34; target=&#34;_blank&#34;&gt;10.1038/srep46539&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of the porcine APOA2 gene expression in liver, polymorphism identification and association with fatty acid composition traits</title>
+      <link>/publication/2016_animgenet_ballester/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_animgenet_ballester/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Ballester, M., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Puig-Oliveras, A., Marchesi, J.A.P., Castelló, A., Corominas, J., Fernández, A.I., Folch, J.M. (2016). Analysis of the porcine APOA2 gene expression in liver, polymorphism identification and association with fatty acid composition traits. &lt;em&gt;Animal Genetics&lt;/em&gt;, 47(5):552-559. doi: &lt;a href=&#34;https://doi.org/10.1111/age.12462&#34; title=&#34;10.1111/age.12462&#34; target=&#34;_blank&#34;&gt;10.1111/age.12462&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expression-based GWAS identifies variants, gene interactions and key regulators affecting intramuscular fatty acid content and composition in porcine meat</title>
+      <link>/publication/2016_scirep_puig-oliveras/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_scirep_puig-oliveras/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Puig-Oliveras, A., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Castelló, A., Fernández, A.I., Folch, J.M., Ballester, M. (2016). Expression-based GWAS identifies variants, gene interactions and key regulators affecting intramuscular fatty acid content and composition in porcine meat. &lt;em&gt;Scientific Reports&lt;/em&gt;, 6:31803. doi: &lt;a href=&#34;https://doi.org/10.1038/srep31803&#34; title=&#34;10.1038/srep31803&#34; target=&#34;_blank&#34;&gt;10.1038/srep31803&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBMAP project</title>
+      <link>/project/ibmap-project/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/ibmap-project/</guid>
+      <description>&lt;h4 id=&#34;tittle-&#34;&gt;Tittle&lt;/h4&gt;
+&lt;p&gt;Application  of  Genomics  and Massive  Parallel  Sequencing  methods  to  the  study  of  genetic  variants  that regulate growth, conformation and meat quality in pigs&lt;/p&gt;
+&lt;h4 id=&#34;project-coordinator-&#34;&gt;Project coordinator&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://orcid.org/0000-0003-3689-1303&#34; title=&#34;Dr. Josep M Folch&#34; target=&#34;_blank&#34;&gt;Dr. Josep M Folch&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;host-institution-&#34;&gt;Host institution&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cragenomica.es/&#34; title=&#34;CRAG&#34; target=&#34;_blank&#34;&gt;Centre de Recerca en Agrigenòmica (CRAG)&lt;/a&gt;, &lt;a href=&#34;https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html&#34; title=&#34;UAB&#34; target=&#34;_blank&#34;&gt;Universitat Autònoma de Barcelona (UAB)&lt;/a&gt;, Bellaterra, Barcelona, Spain&lt;/p&gt;
+&lt;h4 id=&#34;funding-source-&#34;&gt;Funding source&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mineco.gob.es/portal/site/mineco/menuitem.aa5c961c0709f0fe3e85b782026041a0/?vgnextoid=7c9f2f207c415310VgnVCM1000001d04140aRCRD&amp;amp;lang_choosen=en&#34; title=&#34;MINECO&#34; target=&#34;_blank&#34;&gt;Ministry of Economy and Competitiveness (MINECO)&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;amount-&#34;&gt;Amount&lt;/h4&gt;
+&lt;p&gt;138 000 €&lt;/p&gt;
+&lt;h4 id=&#34;id-&#34;&gt;ID&lt;/h4&gt;
+&lt;p&gt;AGL2011-29821-C02&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epigenetic regulation of the ELOVL6 gene is associated with a major QTL effect on fatty acid composition in pigs</title>
+      <link>/publication/2015_genetselevol_corominas/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_genetselevol_corominas/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Corominas, J., Marchesi, J.A.P., Puig-Oliveras, A., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Estellé, J., Alves, E., Folch, J.M., Ballester, M. (2015). Epigenetic regulation of the ELOVL6 gene is associated with a major QTL effect on fatty acid composition in pigs. &lt;em&gt;Genetics Selection Evolution&lt;/em&gt;, 47:20. doi: &lt;a href=&#34;https://doi.org/10.1186/s12711-015-0111-y&#34; title=&#34;10.1186/s12711-015-0111-y&#34; target=&#34;_blank&#34;&gt;10.1186/s12711-015-0111-y&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A co-association network analysis of the genetic determination of pig conformation, growth and fatness</title>
+      <link>/publication/2014_plosone_puig-oliveras/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014_plosone_puig-oliveras/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;Puig-Oliveras, A., Ballester, M., Corominas, J., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Estellé, J., Fernández, A.I., Ramayo-Caldas, Y., Folch, J.M. (2014). A co-association network analysis of the genetic determination of pig conformation, growth and fatness. &lt;em&gt;PLoS One&lt;/em&gt;, 9(12):e114862. doi: &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0114862&#34; title=&#34;10.1371/journal.pone.0114862&#34; target=&#34;_blank&#34;&gt;10.1371/journal.pone.0114862&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New insight into the SSC8 genetic determination of fatty acid composition in pigs</title>
+      <link>/publication/2014_genetselevol_revilla/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014_genetselevol_revilla/</guid>
+      <description>&lt;h4 id=&#34;full-citation-&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Revilla, M.&lt;/strong&gt;, Ramayo-Caldas, R., Castelló, A., Corominas, J., Puig-Oliveras, A., Ibañez-Escriche, N., Muñoz, M., Ballester, M., Folch, J.M. (2014). New insight into the SSC8 genetic determination of fatty acid composition in pigs. &lt;em&gt;Genetics Selection Evolution&lt;/em&gt;, 46:28. doi: &lt;a href=&#34;https://doi.org/10.1186/1297-9686-46-28&#34; title=&#34;10.1186/1297-9686-46-28&#34; target=&#34;_blank&#34;&gt;10.1186/1297-9686-46-28&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
