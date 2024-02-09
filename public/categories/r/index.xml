@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Manuel Revilla, Ph.D.</title>
+    <link>/categories/r/</link>
+      <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Manuel Revilla under (CC BY-SA 4.0)</copyright><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>R</title>
+      <link>/categories/r/</link>
+    </image>
+    
+    <item>
+      <title>Amateur marathoner</title>
+      <link>/post/20191213_amateur/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/20191213_amateur/</guid>
+      <description>&lt;p&gt;Amateur is a word taken from French, that was present in that language since the XV century, after replacing the popular form &lt;i&gt;&amp;ldquo;amaor&amp;rdquo;&lt;/i&gt;, which derives from the Latin &lt;i&gt;&amp;ldquo;amator&amp;rdquo;&lt;/i&gt; meaning &amp;ldquo;who loves&amp;rdquo;.
+Then in the XVIII century it was given a modern meaning alluding to one who practises a science, art, sport&amp;hellip; without the need to be professional for it, but it was not until the XIX century that the amateur word was implemented as a sporting term.&lt;/p&gt;
+
+&lt;p&gt;For myself, I honor the amateur spirit upon which the sport was founded and champion the Running Class - the non-professional yet competitive runners dedicated to the pursuit of personal excellence.&lt;/p&gt;
+
+&lt;p&gt;Anyone who knows me will know that one of my passions are endurance sports, with specially attention to marathons.&lt;/p&gt;
+
+&lt;p&gt;I believe in competition and the meritocracy of racing. Not because winning and losing are particularly important, but because competition sends us on an innately human journey. A large part of training for a marathon is learning from your mistakes. Runners must listen to their bodies and decide when to train, and when not to train, based on how they cope will all they put the body through. The profound physical and mental demands of training and racing lead to a richer and more sensitive and thrilling life. In my experience, I&amp;rsquo;ve gained a lot of humility and perseverance for completing the marathon distance.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, I usually combine this passion with other of my hobbies, meet new landscapes and communities&amp;hellip; I consider that traveling cross-world is a fulfilling way to enhance each marathon experience. It has led me to participate in several marathons around the world, trying to improve, in each one of my participations, my personal record.&lt;/p&gt;
+
+&lt;p&gt;Last April 15 I set my personal best time in the Boston Marathon, my first Major. For those who are not familiar with this term, a Major is the conversational style to call a marathon which belongs to the &lt;a href=&#34;https://www.worldmarathonmajors.com/&#34; target=&#34;_blank&#34;&gt;Abbott World Marathon Majors&lt;/a&gt;. A series consisting of six of the largest and most renowned marathons in the world. The races take place in Tokyo, Boston, London, Berlin, Chicago and New York City.&lt;/p&gt;
+
+&lt;p&gt;I can&amp;rsquo;t be happier about my first participation in a Major, because I broke my &lt;strong&gt;personal record&lt;/strong&gt;, setting up a finishing time of &lt;strong&gt;02h48&amp;rsquo;23&amp;rdquo;&lt;/strong&gt;, which represent a pace of &lt;strong&gt;3&amp;rsquo;59&amp;rdquo;/km (15.04 km/h)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this plot you can find all my participations and my personal progression in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Pheidippides&#34; target=&#34;_blank&#34;&gt;Philippides&lt;/a&gt; (&amp;Phi;&amp;iota;&amp;lambda;&amp;iota;&amp;pi;&amp;pi;&amp;iacute;&amp;delta;&amp;eta;&amp;sigmaf;) distance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/RScatterPlot_MarathonParticipations.png&#34; alt=&#34;This is an image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to dive into my personal marathon participation statistics I invite you to check this summary table.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/RTablePlot_MarathonParticipations.png&#34; alt=&#34;This is an image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Moreover, in the following table you can see the all-time top-5 marathoners (men and women), which reflects that human beings have no limits.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/RTablePlotAthletes_MarathonParticipations.png&#34; alt=&#34;This is an image&#34; /&gt;
+&lt;figcaption&gt;
+Source: &lt;a href=&#34;https://www.worldathletics.org/&#34; target=&#34;_blank&#34;&gt;World Athletics&lt;/a&gt; (before International Association of Athletics Federations, IAAF)
+&lt;/figcaption&gt;&lt;/p&gt;
+
+&lt;p&gt;In each of my training programs for the marathon I take notes that help me improve my performance, as well as embody my personal experiences. Remembering the notes I usually take, the plots shown in this post are made using the R package &lt;a href=&#34;https://CRAN.R-project.org/package=xkcd&#34; target=&#34;_blank&#34;&gt;xkcd&lt;/a&gt;, which represents the traces of handwriting.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, I want to share with you this quote of &lt;a href=&#34;https://archive.org/details/borntorunhiddent00mcdo&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen&amp;rdquo;&lt;/a&gt; book, a must to be read if you want to be consider as a marathoner:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+&#34;Every morning in Africa, a gazelle wakes up, it knows it must outrun the fastest lion or it will be killed. 
+Every morning in Africa, a lion wakes up. 
+It knows it must run faster than the slowest gazelle, or it will starve. 
+It doesn&#39;t matter whether you&#39;re the lion or a gazelle-when the sun comes up, you&#39;d better be running.&#34; 
+  &lt;/p&gt;
+-Christopher McDougall
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello &amp; Welcome to my first blog post</title>
+      <link>/post/20191206_welcome/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/20191206_welcome/</guid>
+      <description>&lt;p&gt;Welcome to the launch of my first website and my first blog post! My name is Manuel Revilla and I am so excited to share with you all my contributions to the scientific world gathered together in one website. The amount of ideas, how-to&amp;rsquo;s and inspiration whirling around in my head is ready to jump out.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;strong&gt;&amp;middot; Why I started my website/blog &amp;middot;&lt;/strong&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;I wanted to start by telling you why I created this blog, what you will be seeing more of in my posts, and my overall experience of creating my website.&lt;/p&gt;
+
+&lt;p&gt;Since I started in academia, I have witnessed the emergence of huge amount of vias to share and disseminate our scientific contributions to an specific area of knowledge and the general public. All of them, to a greater or lesser extent, fulfill their purpose. But sometimes we miss out on valuable information among the wide range of communication channels available. That&amp;rsquo;s why I decided to create this website as an official way of communication, an make you easier to know more and more about my professional progession as a researcher.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;strong&gt;&amp;middot; First of all, I apologize &amp;middot;&lt;/strong&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;English writing has never been a strong suite of mine and I will tell you, I am no expert on any of this. I try to be a &amp;ldquo;perfectionist&amp;rdquo; but I am nowhere near perfect. I figure it will be a lot of trial and error so please bear with me on any grammar/spelling mistakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;strong&gt;&amp;middot; Enjoy the experience of building your own website/blog &amp;middot;&lt;/strong&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;After being inspired to start my website/blog, I wanted to create them in a professional way and would allow me to make updates in a simple and fast way. I could have gone to a web designer, but in that case I would have lost the experience of creating on my own. Taking advantage of my skills in &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; environment, I decided to built it using &lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt; open-source. As a researcher I am used to work programming in R to perform statistical and data analysis, so why not develop my own website using this language and have fun throughout the entire process&amp;hellip; This means I would be able to maintain my website in R, have a lot more flexibility and control over the look of my website.&lt;/p&gt;
+
+&lt;p&gt;In the next lines I summarize the steps I follow to create my website. For a more detail guideline you can consult the extremely helpful &lt;a href=&#34;https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/&#34; target=&#34;_blank&#34;&gt;blog of Alison Hill&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+  &lt;li&gt;
+    Setting up &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;:
+  &lt;/li&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+         Create a GitHub account
+      &lt;/li&gt;
+      &lt;li&gt;
+        On your dashboard, create a New Repository (your_username.github.io)
+      &lt;/li&gt;
+      &lt;li&gt;
+        Create a local copy of this repository
+      &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/ol&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34; start=&#34;2&#34;&gt;
+  &lt;li&gt;
+    Launch RStudio and create a New Project. Navigate to the folder above the working directory you just created from GitHub.
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34; start=&#34;3&#34;&gt;
+  &lt;li&gt;
+    Install &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt; &lt;code&gt;blogdown&lt;/code&gt; &lt;/a&gt; package in your RStudio console:&lt;pre&gt;&lt;code class=&#34;hljs sql&#34;&gt;## Install from CRAN
+install.packages(&#34;blogdown&#34;)
+## Or, install from GitHub
+if (!requireNamespace(&#34;devtools&#34;)) install.packages(&#34;devtools&#34;)
+devtools::install_github(&#34;rstudio/blogdown&#34;)&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34; start=&#34;4&#34;&gt;
+  &lt;li&gt;
+    Install &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; using the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt; &lt;code&gt;blogdown&lt;/code&gt;&lt;/a&gt; package helper function:&lt;pre&gt;&lt;code class=&#34;hljs sql&#34;&gt;blogdown::install_hugo()
+# or
+library(blogdown)
+install_hugo()&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34; start=&#34;5&#34;&gt;  
+  &lt;li&gt;
+    Build your site by choosing the &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo themes&lt;/a&gt; that you like the most. If you belong to the academia field, &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Hugo Academic Theme&lt;/a&gt; could be a good choice, this theme offers all the sections present in a standard &lt;i&gt;curriculum vitae&lt;/i&gt; with a clean simple interface:&lt;pre&gt;&lt;code class=&#34;hljs sql&#34;&gt;# create a new site with the academic theme
+blogdown::new_site(theme = &#34;.../hugo-academic&#34;, theme_example = TRUE)&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34; start=&#34;6&#34;&gt;
+  &lt;li&gt;  
+    Configurate and customizate according your personal preferences. A complete guideline for the Hugo Academic theme can be find &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Running locally &lt;code&gt;blogdown:::serve_site()&lt;/code&gt; in your RStudio project is especially useful as you can inmediately see the changes you have perform. If you would like to have Google monitor the analytics for your site so that you can study traffic flow on your pages, you will need to enable &lt;a href=&#34;https://marketingplatform.google.com/intl/com/about/analytics/&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;. First, sign up &lt;a href=&#34;https://accounts.google.com/signin/v2/identifier?service=analytics&amp;passive=1209600&amp;continue=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F%3Futm_source%3Dmarketingplatform.google.com%26utm_medium%3Det%26utm_campaign%3Dmarketingplatform.google.com%2Fabout%2Fanalytics%2F%23&amp;followup=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F%3Futm_source%3Dmarketingplatform.google.com%26utm_medium%3Det%26utm_campaign%3Dmarketingplatform.google.com%2Fabout%2Fanalytics%2F&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. It will generate a tracking code for you. Enter the tracking code into &lt;code&gt;config.toml&lt;/code&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34; start=&#34;7&#34;&gt;
+  &lt;li&gt;
+    Link or host your local repository on your GitHub repository. For default your website domain will be (https://your_username.github.io/). If you want to set up a custom domain for your personal domain, in my case I buy www.manuel-revilla.com, you can purchase one in &lt;a href=&#34;https://domains.google/&#34; target=&#34;_blank&#34;&gt;Google Domains&lt;/a&gt;, is a very straightforward process. After that you can set up the custom domain for your website following the instructions of the &lt;a href=&#34;https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site&#34; target=&#34;_blank&#34;&gt;GitHub documentation&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol style=&#34;list-style-type: decimal&#34; start=&#34;8&#34;&gt;
+  &lt;li&gt;
+    Last but not least, show your personal website to the World ;)
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code&gt;Very breef summary of the esencial steps to build your personal website:
+
+- [x] Web: GitHub         | Create an account using GithHub Pages
+- [x] RStudio             | package needed: &amp;quot;devtools&amp;quot;, &amp;quot;blogdown&amp;quot; and &amp;quot;hugo&amp;quot;
+- [x] RStudio             | Configurate and customizate your website
+- [x] Web: GitHub         | Link or host your local repository (https://your_username.github.io/)
+- [ ] Web: Google Domains | Buy and set up your personal domain
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;
+Please feel free to always share your advice and communicate with me along the way!
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

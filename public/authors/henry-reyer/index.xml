@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry Reyer | Manuel Revilla, Ph.D.</title>
+    <link>/authors/henry-reyer/</link>
+      <atom:link href="/authors/henry-reyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henry Reyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Manuel Revilla under (CC BY-SA 4.0)</copyright><lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Henry Reyer</title>
+      <link>/authors/henry-reyer/</link>
+    </image>
+    
+    <item>
+      <title>Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs</title>
+      <link>/publication/2018_scirep_ramayo-caldas/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_scirep_ramayo-caldas/</guid>
+      <description>&lt;div class=&#34;article-style&#34;&gt;
+  &lt;h4 id=full-citation&#34;&gt;Full citation&lt;/h4&gt;
+&lt;p&gt;
+  Ramayo&amp;#150;Caldas, Y., Ballester, M., S&amp;aacute;nchez, J.P., Gonz&amp;aacute;lez&amp;#150;Rodr&amp;iacute;guez, O., &lt;strong&gt;Revilla, M.&lt;/strong&gt;, Reyer, H., Wimmers, K., Torrallardona, D., Quintanilla, R. (2018). Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs. &lt;em&gt;Scientific Reports&lt;/em&gt;, 8(1):558. doi: &lt;a href=&#34;https://doi.org/10.1038/s41598-017-19072-5&#34; target=&#34;_blank&#34;&gt;10.1038/s41598-017-19072-5&lt;/a&gt;  
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
